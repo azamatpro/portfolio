@@ -57,7 +57,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'Frontend Developer',
+    title: 'MERN stuck Developer',
     icon: creator,
   },
 ];
