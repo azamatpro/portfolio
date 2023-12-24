@@ -119,7 +119,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'JavaScript.js Developer',
+    title: 'JavaScript Developer',
     company_name: 'Applied Labs Company',
     icon: javascript,
     iconBg: '#383E56',
