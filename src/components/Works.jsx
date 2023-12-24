@@ -19,14 +19,17 @@ const ProjectCard = ({
   web_code_link,
 }) => {
   return (
-    <motion.div variants={fadeIn('up', 'spring', index * 0.5, 0.75)}>
+    <motion.div
+      variants={fadeIn('up', 'spring', index * 0.5, 0.75)}
+      onClick={() => window.open(web_code_link, '_blank')}
+    >
       <Tilt
         options={{
           max: 45,
           scale: 1,
           speed: 450,
         }}
-        className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
+        className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full cursor-pointer"
       >
         <div className="relative w-full h-[230px]">
           <img
@@ -35,18 +38,7 @@ const ProjectCard = ({
             className="w-full h-full object-cover rounded-2xl"
           />
 
-          <div className="absolute inset-0 flex justify-between m-3 card-img_hover">
-            <div
-              onClick={() => window.open(web_code_link, '_blank')}
-              className="bg-gradient-to-r from-indigo-400 to-cyan-400 w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
-            >
-              <img
-                src={web}
-                alt="web demo"
-                className="w-1/2 h-1/2 object-contain"
-              />
-            </div>
-
+          <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
             <div
               onClick={() => window.open(source_code_link, '_blank')}
               className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"

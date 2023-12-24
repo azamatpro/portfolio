@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  SahandEstate,
+  CrwnClothing,
+  InvoiceApp,
 } from '../assets';
 
 export const navLinks = [
@@ -117,7 +120,7 @@ const technologies = [
 const experiences = [
   {
     title: 'JavaScript.js Developer',
-    company_name: 'Applied Labs',
+    company_name: 'Applied Labs Company',
     icon: javascript,
     iconBg: '#383E56',
     date: 'July 2022 - September 2022',
@@ -130,7 +133,7 @@ const experiences = [
   },
   {
     title: 'React.js Developer',
-    company_name: 'React-Azamat',
+    company_name: 'React-Azamat Organization',
     icon: reactjs,
     iconBg: '#E6DEDD',
     date: 'January 2023 - April 2023',
@@ -189,7 +192,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: carrent,
+    image: SahandEstate,
     source_code_link: 'https://github.com/azamatpro/mern-estate',
     web_code_link: 'https://mern-estate-uxum.onrender.com',
   },
@@ -211,7 +214,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: jobit,
+    image: CrwnClothing,
     source_code_link: 'https://github.com/azamatpro/crwn-clothing',
     web_code_link: 'https://crwn-easy-clothing-shop.netlify.app',
   },
@@ -233,7 +236,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: tripguide,
+    image: InvoiceApp,
     source_code_link: 'https://github.com/azamatpro/invoice-app',
     web_code_link: 'https://develop-invoice.netlify.app/',
   },
