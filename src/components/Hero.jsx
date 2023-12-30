@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915EFF]">Azamat</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop dynamic web applications
+            I develop dynamic web applications &nbsp;
             <br className="sm:block hidden" />
             using MERN stack technologies.
           </p>
