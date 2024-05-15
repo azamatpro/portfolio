@@ -29,6 +29,7 @@ import tesla from './company/tesla.png';
 import SahandEstate from './SahandEstate.png';
 import CrwnClothing from './CrwnClothing.png';
 import InvoiceApp from './InvoiceApp.png';
+import ishop from './ishop-img.png';
 
 import carrent from './carrent.png';
 import jobit from './jobit.png';
@@ -66,4 +67,5 @@ export {
   SahandEstate,
   CrwnClothing,
   InvoiceApp,
+  ishop,
 };
