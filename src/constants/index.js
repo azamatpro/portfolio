@@ -28,6 +28,7 @@ import {
   CrwnClothing,
   InvoiceApp,
   ishop,
+  professor,
 } from '../assets';
 
 export const navLinks = [
