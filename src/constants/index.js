@@ -26,6 +26,7 @@ import {
   SahandEstate,
   CrwnClothing,
   InvoiceApp,
+  ishop,
 } from '../assets';
 
 export const navLinks = [
@@ -175,12 +176,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'Sahand Estate',
+    name: 'Ishop Market',
     description:
-      'Web-based platform that allows users to sell, buy, or rent modern houses from various providers, providing efficient solution for residential needs.',
+      'A platform for buying and selling products online, including seller admin dashboard to handle your e-commerce business.',
     tags: [
       {
-        name: 'react',
+        name: 'nextjs',
         color: 'blue-text-gradient',
       },
       {
@@ -192,53 +193,9 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: SahandEstate,
-    source_code_link: 'https://github.com/azamatpro/mern-estate',
-    web_code_link: 'https://mern-estate-uxum.onrender.com',
-  },
-  {
-    name: 'CRWN Clothing',
-    description:
-      'Web application that enables users to search for new products, make a payment for desired products, and product categories available for easy product searching.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'restapi',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: CrwnClothing,
-    source_code_link: 'https://github.com/azamatpro/crwn-clothing',
-    web_code_link: 'https://crwn-easy-clothing-shop.netlify.app',
-  },
-  {
-    name: 'Invoice App',
-    description:
-      'A comprehensive invoice making platform that allows users to create invoices with their preferences and make a payment, or offers editing it for popular fixes.',
-    tags: [
-      {
-        name: 'reactjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: InvoiceApp,
-    source_code_link: 'https://github.com/azamatpro/invoice-app',
-    web_code_link: 'https://develop-invoice.netlify.app/',
+    image: ishop,
+    source_code_link: 'https://github.com/azamatpro/ishop',
+    web_code_link: 'https://ishop-market.vercel.app',
   },
 ];
 
