@@ -18,6 +18,7 @@ import {
   meta,
   starbucks,
   tesla,
+  inha,
   shopify,
   carrent,
   jobit,
@@ -122,7 +123,7 @@ const experiences = [
   {
     title: 'Full-stack Developer',
     company_name: 'Epik Company',
-    icon: javascript,
+    icon: shopify,
     iconBg: '#383E56',
     date: 'September 2023 - Present',
     points: [
@@ -135,7 +136,7 @@ const experiences = [
   {
     title: 'Research Assistant',
     company_name: 'Inha University',
-    icon: reactjs,
+    icon: inha,
     iconBg: '#E6DEDD',
     date: 'January 2023 - April 2023',
     points: [
