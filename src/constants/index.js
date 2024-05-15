@@ -45,11 +45,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Web Developer',
+    title: 'Software Developer',
     icon: web,
   },
   {
-    title: 'Next.js Developer',
+    title: 'Frontend Developer',
     icon: mobile,
   },
   {
@@ -57,7 +57,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'MERN stack Developer',
+    title: 'MERN Developer',
     icon: creator,
   },
 ];
@@ -119,21 +119,21 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'JavaScript Developer',
-    company_name: 'Applied Labs Company',
+    title: 'Full-stack Developer',
+    company_name: 'Epik Company',
     icon: javascript,
     iconBg: '#383E56',
-    date: 'July 2022 - September 2022',
+    date: 'September 2023 - Present',
     points: [
-      'I have worked as a Freelancer to develop web applications using JavaScript and other related technologies.',
+      'I have worked as a Freelancer to develop web applications using JavaScript, React and Nodejs and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
       'Implementing responsive design and ensuring cross-browser compatibility.',
       'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
   {
-    title: 'React.js Developer',
-    company_name: 'React-Azamat Organization',
+    title: 'Research Assistant',
+    company_name: 'Inha University',
     icon: reactjs,
     iconBg: '#E6DEDD',
     date: 'January 2023 - April 2023',
