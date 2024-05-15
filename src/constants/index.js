@@ -140,10 +140,9 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'January 2023 - April 2023',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Working with cross-functional teams and partners to develop the app which creates invoices due to user prefernces.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Assisted research in the field of Artificial Intelligence and Marketing.',
+      'Presented research findings and contributed to writing research papers, showcasing effective communication skills and the ability to disseminate research outcomes to the scientific community.',
+      'Conducting experiments, surveys, interviews, or observational studies, and ensuring that data is collected accurately and ethically.',
     ],
   },
 ];
