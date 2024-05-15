@@ -32,6 +32,8 @@ import CrwnClothing from './CrwnClothing.png';
 import InvoiceApp from './InvoiceApp.png';
 import ishop from './ishop-img.png';
 import professor from './professor.png';
+import yuldashev from './yuldashev.png';
+import umidjon from './umidjon.png';
 
 import carrent from './carrent.png';
 import jobit from './jobit.png';
@@ -72,4 +74,6 @@ export {
   InvoiceApp,
   ishop,
   professor,
+  yuldashev,
+  umidjon,
 };

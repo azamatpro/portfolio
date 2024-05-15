@@ -15,20 +15,13 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
   inha,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
-  SahandEstate,
-  CrwnClothing,
-  InvoiceApp,
   ishop,
   professor,
+  yuldashev,
+  umidjon,
 } from '../assets';
 
 export const navLinks = [
@@ -150,26 +143,31 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial: 'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
-    name: 'Sara Lee',
-    designation: 'CFO',
-    company: 'Acme Co',
-    image: 'https://randomuser.me/api/portraits/women/4.jpg',
+    testimonial:
+      'Highly skilled and reliable Web developer. His attention to detail and creative solutions exceeded our expectations. Highly recommend for any web development project.',
+    email: 'yuldashev021201@gmail.com',
+    name: 'Yuldashev Mukhammadyusuf',
+    designation: 'AI Engineer',
+    company: 'CAD-IT Korea co. Ltd',
+    image: yuldashev,
   },
   {
     testimonial:
       'I have known Azamat for two years and can attest to his strengths and quality of character. He distinguished himself by working exceptionally hard in my course: Artificial intelligence.',
+    email: 'vjkakani@inha.ac.kr',
     name: 'Vijay Kakani',
     designation: 'Assistant Professor',
     company: 'Inha University',
     image: professor,
   },
   {
-    testimonial: "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: 'Lisa Wang',
-    designation: 'CTO',
+    testimonial:
+      "His creativity and technical skills are top-notch. We're thrilled with the results and will definitely work with him again. Highly recommended!",
+    email: 'umidjon@gmail.com',
+    name: 'Umidjon Ziyatdinov',
+    designation: 'Backend Developer',
     company: '456 Enterprises',
-    image: 'https://randomuser.me/api/portraits/women/6.jpg',
+    image: umidjon,
   },
 ];
 
