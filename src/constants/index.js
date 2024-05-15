@@ -146,7 +146,7 @@ const testimonials = [
     testimonial:
       'Highly skilled developer. He is a great fit to be a part of your organization and can surprise you with how quickly he acclimates to the new team.',
     email: 'yuldashev021201@gmail.com',
-    name: 'Mukhammadyusuf',
+    name: 'Mukhammad Yusuf',
     designation: 'Engineer',
     company: 'CAD-IT Korea co. Ltd',
     image: yuldashev,
@@ -163,7 +163,7 @@ const testimonials = [
   {
     testimonial:
       "His creativity and technical skills are top-notch. We're thrilled with the results and will definitely work with him again. Highly recommended!",
-    email: 'umidjon@gmail.com',
+    email: 'uziyatdinov@gmail.com',
     name: 'Umidjon Ziyatdinov',
     designation: 'Engineer',
     company: '456 Enterprises',
