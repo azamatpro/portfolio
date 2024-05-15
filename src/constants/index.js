@@ -144,19 +144,19 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'Highly skilled and reliable Web developer. His attention to detail and creative solutions exceeded our expectations. Highly recommend for any web development project.',
+      'Highly skilled developer. He is a great fit to be a part of your organization and can surprise you with how quickly he acclimates to the new team.',
     email: 'yuldashev021201@gmail.com',
-    name: 'Yuldashev Mukhammadyusuf',
-    designation: 'AI Engineer',
+    name: 'Mukhammadyusuf',
+    designation: 'Engineer',
     company: 'CAD-IT Korea co. Ltd',
     image: yuldashev,
   },
   {
     testimonial:
-      'I have known Azamat for two years and can attest to his strengths and quality of character. He distinguished himself by working exceptionally hard in my course: Artificial intelligence.',
+      'I know Azamat for two years and can attest to his strengths and quality of character. He showed himself working hard in my course: Artificial intelligence.',
     email: 'vjkakani@inha.ac.kr',
     name: 'Vijay Kakani',
-    designation: 'Assistant Professor',
+    designation: 'Professor',
     company: 'Inha University',
     image: professor,
   },
@@ -165,7 +165,7 @@ const testimonials = [
       "His creativity and technical skills are top-notch. We're thrilled with the results and will definitely work with him again. Highly recommended!",
     email: 'umidjon@gmail.com',
     name: 'Umidjon Ziyatdinov',
-    designation: 'Backend Developer',
+    designation: 'Engineer',
     company: '456 Enterprises',
     image: umidjon,
   },
