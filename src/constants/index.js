@@ -166,7 +166,7 @@ const testimonials = [
     email: 'uziyatdinov@gmail.com',
     name: 'Umidjon Ziyatdinov',
     designation: 'Engineer',
-    company: '456 Enterprises',
+    company: "Worker's High co.Ltd",
     image: umidjon,
   },
 ];
