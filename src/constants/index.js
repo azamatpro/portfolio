@@ -138,7 +138,7 @@ const experiences = [
     company_name: 'Inha University',
     icon: inha,
     iconBg: '#E6DEDD',
-    date: 'January 2023 - April 2023',
+    date: 'February 2023 - June 2023',
     points: [
       'Assisted research in the field of Artificial Intelligence and Marketing.',
       'Presented research findings and contributed to writing research papers, showcasing effective communication skills and the ability to disseminate research outcomes to the scientific community.',
