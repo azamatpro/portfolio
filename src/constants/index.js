@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   inha,
+  moitech,
   shopify,
   threejs,
   ishop,
@@ -115,11 +116,12 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Full-stack Developer',
+    title: 'Full-Stack Developer',
     company_name: 'Epik Company',
     icon: shopify,
     iconBg: '#383E56',
-    date: 'September 2023 - Present',
+    date: 'May 2023 - May, 2024',
+    url: 'https://epik.uz',
     points: [
       'I have worked as a Freelancer to develop web applications using JavaScript, React and Nodejs and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
@@ -128,15 +130,16 @@ const experiences = [
     ],
   },
   {
-    title: 'Research Assistant',
-    company_name: 'Inha University',
-    icon: inha,
+    title: 'Full-Stack Developer',
+    company_name: 'Moitech Company',
+    icon: moitech,
     iconBg: '#E6DEDD',
-    date: 'February 2023 - June 2023',
+    date: 'June 2024 - November 2024',
+    url: 'https://www.moitech.kr',
     points: [
-      'Assisted research in the field of Artificial Intelligence and Marketing.',
-      'Presented research findings and contributed to writing research papers, showcasing effective communication skills and the ability to disseminate research outcomes to the scientific community.',
-      'Conducting experiments, surveys, interviews, or observational studies, and ensuring that data is collected accurately and ethically.',
+      'Developed and optimized responsive web applications using React, Material UI, TailwindCSS, and Redux. Ensured visually engaging and user-friendly experiences tailored to modern web standards.',
+      'Implemented robust, real-time communication features utilizing MQTT over WebSockets to support seamless data updates and interactivity.',
+      'Developed, and maintained backend services with Java, Spring Boot, and Hibernate, focusing on efficient and secure data processing using MariaDB and MySQL.',
     ],
   },
 ];
